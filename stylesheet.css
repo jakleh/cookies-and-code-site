@@ -161,7 +161,7 @@ transition: all 1s ease-out;    /* Gap */
 
 .navbar-li {
   float: left;
-  width: 20.0%;
+  width: 16.66%;
   font-family: courier-new, monospace;
   font-size: 18px;
 }
