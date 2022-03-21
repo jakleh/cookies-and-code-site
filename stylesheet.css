@@ -281,6 +281,24 @@ transition: all 1s ease-out;    /* Gap */
   /* margin-right: 20px !important; */
 }
 
+.seventh-member {
+  /* grid-column: 1 / 3; */
+  grid-row: 3;
+  /* margin-right: 20px !important; */
+}
+
+.eighth-member {
+  grid-column: 2 / 3;
+  grid-row: 3;
+  /* margin-right: 20px !important; */
+}
+
+.ninth-member {
+  grid-column: 3 / 3;
+  grid-row: 3;
+  /* margin-right: 20px !important; */
+}
+
 .registration-button {
   background-color: var(--blue_strong);
   color: var(--charcoal);
